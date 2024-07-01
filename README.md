@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 # GifApp
 
 Este proyecto fue realizado basado en un curso en Udemy de React
+
+- Usando la api de Giphy, realiza busquedas de gifs por medio de palabras clave u oraciones.
